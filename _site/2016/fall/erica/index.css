@@ -1,0 +1,29 @@
+html {
+  font-family: 'Tinos', serif;
+}
+
+body{
+  background-color: mistyrose;
+}
+
+a{
+  color:black;
+  text-align: center;
+}
+
+h2,h1{
+  text-align: center;
+}
+
+h1,h2{
+  font-family: 'Dancing Script', cursive;
+}
+
+p{
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  list-style: none;
+}

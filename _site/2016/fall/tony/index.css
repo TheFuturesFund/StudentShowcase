@@ -1,0 +1,27 @@
+html{
+  color:orange;
+}
+
+body.home {
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwViQfYoh3_EYogqErJqx7GGmBM_kSc4JsX3tTtF6S8__nBH6kiA");
+
+  background-size: 100% 100%;
+}
+
+body.downloads {
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcVMtF9ea1BCwI4TG_fdVYhq38lYPNjqPZuYHAYBBE9srzB7y2qQ");
+
+  background-size: 100% 100%
+}
+
+body.roblox {
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWU3my7DtB302j3gavwo-m3iLdugFK_U-w7S19b_IG6LDvG1-0Bw");
+
+  background-size: 100% 100%
+}
+
+
+a{
+  color:white;
+
+}
